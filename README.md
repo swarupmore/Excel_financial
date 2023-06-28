@@ -16,5 +16,14 @@ DATA MODEL
  ![Reports](https://github.com/swarupmore/Excel_financial/blob/main/Resources/Business%20report%201.1.jpg)
 
  Market Performance vs Target
+![Reports](https://github.com/swarupmore/Excel_financial/blob/main/Resources/Business%20report%202.jpg)
 
+P&L by Fiscal Years
+![Reports](https://github.com/swarupmore/Excel_financial/blob/main/Resources/Business%20report%203.jpg)
+![Reports](https://github.com/swarupmore/Excel_financial/blob/main/Resources/Business%20report%203.2.jpg)
+![Reports](https://github.com/swarupmore/Excel_financial/blob/main/Resources/Business%20report%203.3.jpg)
+
+P&L by Months
+![Reports](https://github.com/swarupmore/Excel_financial/blob/main/Resources/Business%20report%204.1.jpg)
+![Reports](https://github.com/swarupmore/Excel_financial/blob/main/Resources/Business%20report%204.2.jpg)
  
