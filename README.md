@@ -9,4 +9,4 @@ In this project I created 4 Financial Reports for hypothetical company called At
 
 DATA MODEL 
 
-[!Reports](https://github.com/swarupmore/Excel_financial/blob/main/Resources/Data%20model%20business%20insights.png)
+![Reports](https://github.com/swarupmore/Excel_financial/blob/main/Resources/Data%20model%20business%20insights.png)
