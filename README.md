@@ -10,3 +10,11 @@ In this project I created 4 Financial Reports for hypothetical company called At
 DATA MODEL 
 
 ![Reports](https://github.com/swarupmore/Excel_financial/blob/main/Resources/Data%20model%20business%20insights.png)
+
+ Customer Net Sales Performance
+ ![Reports](https://github.com/swarupmore/Excel_financial/blob/main/Resources/Business%20report%201.jpg)
+ ![Reports](https://github.com/swarupmore/Excel_financial/blob/main/Resources/Business%20report%201.1.jpg)
+
+ Market Performance vs Target
+
+ 
